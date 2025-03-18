@@ -8,8 +8,8 @@ _Prerequisite_ - [Docker](https://www.docker.com) must be installed and running 
 
 1. Clone the repo
     ```Shell
-    git clone https://github.com/intersystems-community/hackathon-2024.git
-    cd hackathon-2024
+    git clone https://github.com/intersystems-community/caelestinus-2025.git
+    cd caelestinus-2025
     ```
 
 
@@ -113,7 +113,7 @@ _Prerequisite_ - [Docker](https://www.docker.com) must be installed and running 
     ``` 
 
 8. To run the demo using VSCode:
-   - Open VSCode and navigate to **File -> Open Folder...**, then select the **hackathon** folder.
+   - Open VSCode and navigate to **File -> Open Folder...**, then select the **caelestinus** folder.
    - Open the notebook file you want to run from the **Demo** folder.
    - In the **top right** of the notebook, click **Select Kernel** and select **iris-env** to activate the environment that was created.
 
